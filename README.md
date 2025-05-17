@@ -7,4 +7,4 @@ Este repositorio contiene una práctica para explorar la vulnerabilidad **Meltdo
 Para compilar el programa, utiliza el siguiente comando:
 
 ```bash
-gcc -O2 -o meltdown_simple meltdown_simple.c
+gcc -O2 -o meltdown meltdown.c
